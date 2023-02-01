@@ -64,4 +64,11 @@
   1. On Github, navigate to the repository which you want to fork
   2. In top-right corner of the page, click fork.
   3. After fork, to work on local repo either clone or download it.
-  
+
+**Pull Request**
+  1. git clone httplink
+  2. git checkout -b "LocalBranch"
+  3. git add .
+  4. git commit -m "COmmit message"
+  5. git push --set-upstream origin master
+  6. a new b
